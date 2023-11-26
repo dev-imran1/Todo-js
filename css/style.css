@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul, ol{
+    list-style-type: none;
+}
+h1,h2,h3,h4,h5,h6{
+    line-height: 0.8;
+}
+a{
+    text-decoration: none;
+}
+.error{
+    color: red;
+    font-size: 10px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.update{
+    display: none;
+}
